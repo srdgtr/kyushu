@@ -1,3 +1,4 @@
+# proberen om tickets voor een weinig rijdende echte stoom trein ;) te verkrijgen
 import datetime
 import subprocess
 import sys
